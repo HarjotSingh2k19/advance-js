@@ -1,3 +1,5 @@
+// navbar completed
+
 // Prototype
 
 // Ways to create object in JS
